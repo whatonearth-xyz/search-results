@@ -1,5 +1,5 @@
 # whaton🌎
-You are viewing the home page of an open source search directory. 🦄✨
+You are viewing the README.md file of an open source search directory. 🦄✨
 
 ### FAQs
 - [What is web3?](<https://www.whatonearth.xyz/search?query=What is web3?>)
