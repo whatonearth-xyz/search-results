@@ -8,8 +8,3 @@ You are viewing the README.md file of an open source search directory. 🦄✨
 - [Web3 study resources](<https://www.whatonearth.xyz/search?query=Web3 study resources>)
 - [How to get a job in web3?](<https://www.whatonearth.xyz/search?query=How to get a job in web3?>)
 - [How to prevent scams?](<https://www.whatonearth.xyz/search?query=How to prevent scams?>)
-
-### Verify our code
-- Update our search training data or algorithm - [Backend](<https://github.com/whatonearth-xyz/backend>)
-- Improve our UI/UX - [Frontend](<https://github.com/whatonearth-xyz/backend>)
-- Update search results - [Search Results](<https://github.com/whatonearth-xyz/search-results>)
