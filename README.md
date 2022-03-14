@@ -12,3 +12,4 @@ You are viewing the home page of an open source search directory. 🦄✨
 ### Verify our code
 1) Update our search training data or algorithm - [Backend](<https://github.com/whatonearth-xyz/backend>)
 2) Improve our UI/UX - [Frontend](<https://github.com/whatonearth-xyz/backend>)
+3) Update search results - [Search Results](<https://github.com/whatonearth-xyz/search-results>)
