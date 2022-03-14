@@ -1,4 +1,4 @@
-# whaton🌎
+# W🌎E
 You are viewing the README.md file of an open source search directory. 🦄✨
 
 ### FAQs
